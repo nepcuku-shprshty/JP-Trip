@@ -1,6 +1,3 @@
-# ⛩ Day 2 — Asakusa, Nakamise & Kappabashi
-
-> *Первое настоящее знакомство с традиционным Токио.*
 ---
 title: Day 2 — Old Tokyo
 subtitle: Sensō-ji • Nakamise • Kappabashi
@@ -13,6 +10,11 @@ child_friendly: 5/5
 shopping: 4/5
 food: 5/5
 premium: true
+---
+
+> *Первое настоящее знакомство с традиционным Токио.*
+---
+
 ---
 
 > 🇯🇵 Первый полноценный день в Токио.
