@@ -1,1 +1,59 @@
+site_name: JP-Trip
+site_description: Персональный семейный путеводитель по Токио
+site_author: Andre
 
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+  palette:
+    - scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Включить темную тему
+
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Включить светлую тему
+
+nav:
+  - Главная: index.md
+  - Маршрут поездки: master-itinerary.md
+
+  - Логистика:
+      - Перелет: flight-guide.md
+      - Пересадка в Сеуле: seoul-transit.md
+      - Район Oshiage: living-in-oshiage.md
+
+  - Дни в Токио:
+      - День 1 — Прибытие: day-01-arrival.md
+      - День 2 — Старый Токио: day-02-asakusa.md
+      - День 3 — Цукидзи и Гиндза: day-03-tsukiji-ginza.md
+      - День 4 — Харадзюку и Сибуя: day-04-harajuku-shibuya.md
+      - День 5 — Disneyland: day-05-disneyland.md
+      - День 6 — Уэно и Амейоко: day-06-ueno-ameyoko.md
+      - День 7 — Одайба: day-07-odaiba.md
+
+  - Справочники:
+      - Шопинг: shopping-guide.md
+      - Travel Companion: travel-companion.md
+
+  - Книга: book.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
