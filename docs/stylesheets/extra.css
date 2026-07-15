@@ -1,0 +1,122 @@
+:root {
+  --jp-red: #bc002d;
+  --jp-red-dark: #8f0022;
+  --jp-ink: #162033;
+  --jp-paper: #fffaf5;
+  --jp-soft: #f5f1ec;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--jp-red);
+  --md-primary-fg-color--light: #d63a58;
+  --md-primary-fg-color--dark: var(--jp-red-dark);
+  --md-accent-fg-color: var(--jp-red);
+  --md-default-bg-color: var(--jp-paper);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #d8324f;
+  --md-accent-fg-color: #ff6b81;
+}
+
+.md-grid {
+  max-width: 1280px;
+}
+
+.md-header {
+  box-shadow: 0 2px 14px rgba(22, 32, 51, 0.12);
+}
+
+.md-main__inner {
+  margin-top: 1.2rem;
+}
+
+.md-content h1 {
+  color: var(--jp-ink);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.md-content h2 {
+  font-weight: 750;
+}
+
+.hero {
+  padding: 3rem 2rem;
+  margin: 0 0 2rem;
+  border-radius: 1.4rem;
+  background:
+    radial-gradient(circle at 90% 15%, rgba(188, 0, 45, 0.16), transparent 28%),
+    linear-gradient(135deg, #ffffff 0%, #fff4f1 100%);
+  border: 1px solid rgba(188, 0, 45, 0.12);
+  box-shadow: 0 18px 50px rgba(22, 32, 51, 0.09);
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(2.3rem, 6vw, 4.8rem);
+  line-height: 1;
+}
+
+.hero-subtitle {
+  margin-top: 1rem;
+  max-width: 760px;
+  font-size: 1.08rem;
+  color: #4f596b;
+}
+
+.trip-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.4rem 0;
+}
+
+.trip-meta span {
+  padding: 0.42rem 0.78rem;
+  border-radius: 999px;
+  background: #ffffff;
+  border: 1px solid rgba(188, 0, 45, 0.14);
+  font-size: 0.88rem;
+  font-weight: 650;
+}
+
+.jp-card {
+  height: 100%;
+  padding: 1.25rem;
+  border: 1px solid rgba(22, 32, 51, 0.1);
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.78);
+  box-shadow: 0 10px 30px rgba(22, 32, 51, 0.06);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.jp-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 38px rgba(22, 32, 51, 0.11);
+}
+
+.jp-card h3 {
+  margin-top: 0;
+}
+
+.md-button {
+  border-radius: 999px;
+  font-weight: 700;
+}
+
+.md-typeset table:not([class]) {
+  border-radius: 0.8rem;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(22, 32, 51, 0.05);
+}
+
+@media screen and (max-width: 600px) {
+  .hero {
+    padding: 2rem 1.2rem;
+  }
+
+  .hero h1 {
+    font-size: 2.55rem;
+  }
+}
