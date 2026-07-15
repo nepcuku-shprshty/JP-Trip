@@ -1,10 +1,70 @@
+<div class="hero" markdown>
+
 # 🇯🇵 JP-Trip
 
-## Персональный семейный путеводитель по Токио
+<div class="hero-subtitle">
 
-**25 октября — 5 ноября 2026**
+Персональный цифровой путеводитель для первого семейного путешествия в Токио — с маршрутами, рынками, гастрономией, шопингом и комфортной логистикой для ребёнка двух лет.
 
-2 взрослых • ребёнок 2 лет • первый визит в Японию
+</div>
+## Начать отсюда
+
+<div class="grid cards" markdown>
+
+-   <div class="jp-card" markdown>
+
+    ### ✈️ Логистика
+
+    Перелёт, дневная пересадка в Сеуле, ночное прибытие в Ханэду и путь до квартиры.
+
+    [Открыть раздел →](flight-guide.md)
+
+    </div>
+
+-   <div class="jp-card" markdown>
+
+    ### 🗓️ Маршрут
+
+    Все дни путешествия, нагрузка, районы, рынки, Disney и вечерние панорамы.
+
+    [Посмотреть маршрут →](master-itinerary.md)
+
+    </div>
+
+-   <div class="jp-card" markdown>
+
+    ### 🛍️ Шопинг
+
+    Одежда, косметика, мелкая электроника, Tax Free и план бюджета.
+
+    [Открыть Shopping Guide →](shopping-guide.md)
+
+    </div>
+
+-   <div class="jp-card" markdown>
+
+    ### 🎒 Travel Companion
+
+    Быстрые инструкции, чек-листы, деньги, метро, ребёнок и экстренные ситуации.
+
+    [Открыть справочник →](travel-companion.md)
+
+    </div>
+
+</div>
+<div class="trip-meta">
+
+<span>📅 25.10–05.11.2026</span>
+<span>👨‍👩‍👧 2 взрослых + ребёнок</span>
+<span>🏠 Oshiage / Tokyo Skytree</span>
+<span>🇰🇷 Пересадка в Сеуле</span>
+
+</div>
+
+[Открыть маршрут](master-itinerary.md){ .md-button .md-button--primary }
+[Подготовиться к поездке](travel-companion.md){ .md-button }
+
+</div>
 
 ---
 
