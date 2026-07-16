@@ -1,3 +1,5 @@
+[🗺 Открыть маршрут](https://www.google.com/maps/dir/?api=1&origin=Oshiage+Station,+Tokyo&destination=Kappabashi+Kitchen+Tools+Street,+Tokyo&waypoints=Senso-ji,+Tokyo&travelmode=transit){ .md-button .md-button--primary }
+[🌤 Проверить погоду](https://www.jma.go.jp/bosai/forecast/){ .md-button }
 ---
 title: Day 2 — Old Tokyo
 subtitle: Sensō-ji • Nakamise • Kappabashi
