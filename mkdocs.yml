@@ -61,4 +61,21 @@ markdown_extensions:
       
 extra_css:
   - stylesheets/extra.css
-  
+    
+- 🇯🇵 Japan Insider:
+      - Главная: japan-insider/index.md
+      - ⛩️ Асакуса: japan-insider/asakusa.md
+      - 🏯 Tokyo Skytree: japan-insider/skytree.md
+      - 🐟 Цукидзи: japan-insider/tsukiji.md
+      - 💎 Гиндза: japan-insider/ginza.md
+      - 🌿 Харадзюку: japan-insider/harajuku.md
+      - 🌃 Сибуя: japan-insider/shibuya.md
+      - 🐼 Уэно: japan-insider/ueno.md
+      - 🌈 Одайба: japan-insider/odaiba.md
+      - 🏰 Disneyland: japan-insider/disneyland.md
+      - 🎌 Этикет: japan-insider/etiquette.md
+      - 🏪 Конбини: japan-insider/convenience-stores.md
+      - 🚇 Транспорт: japan-insider/transport.md
+      - 🍣 Еда: japan-insider/food.md
+      - 🛍️ Шопинг: japan-insider/shopping.md
+      - ❌ Ошибки туристов: japan-insider/mistakes.md
