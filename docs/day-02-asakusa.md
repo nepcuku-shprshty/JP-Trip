@@ -11,6 +11,19 @@ shopping: 4/5
 food: 5/5
 premium: true
 ---
+## 🔗 Быстрые ссылки дня
+
+| Что открыть | Ссылка |
+|---|---|
+| 🗺 Весь маршрут дня | [Oshiage → Sensō-ji → Kappabashi](https://www.google.com/maps/dir/?api=1&origin=Oshiage+Station,+Tokyo&destination=Kappabashi+Kitchen+Tools+Street,+Tokyo&waypoints=Senso-ji,+Tokyo&travelmode=transit) |
+| 🚇 Oshiage Station | [Открыть в Google Maps](https://www.google.com/maps/search/?api=1&query=Oshiage+Station+Tokyo) |
+| ⛩ Sensō-ji | [Открыть в Google Maps](https://www.google.com/maps/search/?api=1&query=Senso-ji+Tokyo) |
+| 🏮 Nakamise | [Открыть в Google Maps](https://www.google.com/maps/search/?api=1&query=Nakamise+Shopping+Street+Tokyo) |
+| 🍳 Kappabashi | [Открыть в Google Maps](https://www.google.com/maps/search/?api=1&query=Kappabashi+Kitchen+Tools+Street+Tokyo) |
+| 🌤 Погода в Токио | [Официальный прогноз JMA](https://www.jma.go.jp/bosai/forecast/) |
+| 🚇 Схема метро | [Tokyo Metro](https://www.tokyometro.jp/en/route_station/index.html) |
+| 🚇 Схема Toei Subway | [Toei Transportation](https://www.kotsu.metro.tokyo.jp/eng/maps/subway/) |
+| 🗣 Японские фразы | [Открыть разговорник](japanese-phrases.md) |
 
 > *Первое настоящее знакомство с традиционным Токио.*
 ---
