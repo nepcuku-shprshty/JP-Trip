@@ -38,31 +38,24 @@ nav:
 
   - Дни в Токио:
       - День 1 — Прибытие: day-01-arrival.md
-      - День 2 — Старый Токио: day-02-asakusa.md
-      - День 3 — Цукидзи и Гиндза: day-03-tsukiji-ginza.md
-      - День 4 — Харадзюку и Сибуя: day-04-harajuku-shibuya.md
+      - День 2 — Старый Токио: day-02-asakusa-v2.md
+      - День 3 — Цукидзи и Гиндза: day-03-tsukiji-ginza-v2.md
+      - День 4 — Харадзюку и Сибуя: day-04-harajuku-shibuya-v2.md
       - День 5 — Disneyland: day-05-disneyland.md
       - День 6 — Уэно и Амейоко: day-06-ueno-ameyoko.md
       - День 7 — Одайба: day-07-odaiba.md
+
+  - Интересные места:
+      - День 2 — Асакуса: day-02-asakusa-places.md
+      - День 3 — Цукидзи и Гиндза: day-03-tsukiji-ginza-places.md
+      - День 4 — Харадзюку и Сибуя: day-04-harajuku-shibuya-places.md
 
   - Справочники:
       - Шопинг: shopping-guide.md
       - Travel Companion: travel-companion.md
       - Японский для туриста: japanese-phrases.md
 
-  - Книга: book.md
-
-markdown_extensions:
-  - admonition
-  - attr_list
-  - tables
-  - toc:
-      permalink: true
-      
-extra_css:
-  - stylesheets/extra.css
-    
-- 🇯🇵 Japan Insider:
+  - 🇯🇵 Japan Insider:
       - Главная: japan-insider/index.md
       - ⛩️ Асакуса: japan-insider/asakusa.md
       - 🏯 Tokyo Skytree: japan-insider/skytree.md
@@ -79,3 +72,15 @@ extra_css:
       - 🍣 Еда: japan-insider/food.md
       - 🛍️ Шопинг: japan-insider/shopping.md
       - ❌ Ошибки туристов: japan-insider/mistakes.md
+
+  - Книга: book.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
