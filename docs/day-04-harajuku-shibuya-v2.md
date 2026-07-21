@@ -16,6 +16,7 @@ title: 🌿 Day 4 — Meiji Jingu • Harajuku • Omotesando • Shibuya Sky
 | 🌤 Погода | [Japan Meteorological Agency](https://www.jma.go.jp/bosai/forecast/) |
 | 🚇 Tokyo Metro | https://www.tokyometro.jp/en/ |
 | 🗣 Полезные фразы | [Японский для туриста](japanese-phrases.md) |
+🛍️ Планируете покупки? Прочитайте статью «Шопинг в Японии» в разделе Japan Insider.
 
 ---
 
