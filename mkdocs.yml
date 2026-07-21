@@ -58,24 +58,24 @@ nav:
       - Travel Companion: travel-companion.md
       - Японский для туриста: japanese-phrases.md
 
-- JP Japan Insider:
-    - Главная: japan-insider/index.md
-    - 🎌 Асакуса: japan-insider/asakusa.md
-    - 🗼 Tokyo Skytree: japan-insider/tokyo-skytree.md
-    - 🐟 Цукидзи: japan-insider/tsukiji.md
-    - 💎 Гиндза: japan-insider/ginza.md
-    - 🌿 Харадзюку: japan-insider/harajuku.md
-    - 🌃 Сибуя: japan-insider/shibuya.md
-    - 🐼 Уэно: japan-insider/ueno.md
-    - 🌈 Одайба: japan-insider/odaiba.md
-    - 🏰 Disneyland: japan-insider/disneyland.md
-    - 🎌 Этикет: japan-insider/etiquette.md
-    - 🏪 Комбини: japan-insider/convenience-stores.md
-    - 🚇 Транспорт: japan-insider/transport.md
-    - 🍣 Еда: japan-insider/japanese-food.md
-    - 🛍️ Шопинг: japan-insider/shopping.md
-    - 🍢 Японский стритфуд: japan-insider/japanese-street-food.md
-    - ❌ Ошибки туристов: japan-insider/tourist-mistakes.md
+  - JP Japan Insider:
+      - Главная: japan-insider/index.md
+      - 🎌 Асакуса: japan-insider/asakusa.md
+      - 🗼 Tokyo Skytree: japan-insider/tokyo-skytree.md
+      - 🐟 Цукидзи: japan-insider/tsukiji.md
+      - 💎 Гиндза: japan-insider/ginza.md
+      - 🌿 Харадзюку: japan-insider/harajuku.md
+      - 🌃 Сибуя: japan-insider/shibuya.md
+      - 🐼 Уэно: japan-insider/ueno.md
+      - 🌈 Одайба: japan-insider/odaiba.md
+      - 🏰 Disneyland: japan-insider/disneyland.md
+      - 🎌 Этикет: japan-insider/etiquette.md
+      - 🏪 Комбини: japan-insider/convenience-stores.md
+      - 🚇 Транспорт: japan-insider/transport.md
+      - 🍣 Еда: japan-insider/japanese-food.md
+      - 🛍️ Шопинг: japan-insider/shopping.md
+      - 🍢 Японский стритфуд: japan-insider/japanese-street-food.md
+      - ❌ Ошибки туристов: japan-insider/tourist-mistakes.md
 
   - Книга: book.md
 
