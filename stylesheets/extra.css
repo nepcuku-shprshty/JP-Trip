@@ -1,0 +1,68 @@
+:root {
+  --jp-red: #bc002d;
+  --jp-red-dark: #900022;
+  --jp-text: #172033;
+  --jp-surface: #fffdf9;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--jp-red);
+  --md-primary-fg-color--dark: var(--jp-red-dark);
+  --md-accent-fg-color: var(--jp-red);
+  --md-default-bg-color: var(--jp-surface);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #c92b49;
+  --md-accent-fg-color: #ff647d;
+}
+
+.md-grid {
+  max-width: 1180px;
+}
+
+.md-main__inner {
+  margin-top: 1.2rem;
+}
+
+.md-content h1 {
+  color: var(--jp-text);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.md-content h2 {
+  margin-top: 2rem;
+  font-weight: 700;
+}
+
+.md-button {
+  margin-top: 0.4rem;
+  margin-right: 0.4rem;
+  border-radius: 0.55rem;
+  font-weight: 700;
+}
+
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.md-typeset blockquote {
+  border-left-color: var(--jp-red);
+}
+
+@media screen and (max-width: 600px) {
+  .md-content h1 {
+    font-size: 2rem;
+  }
+
+  .md-button {
+    display: block;
+    width: 100%;
+    margin-bottom: 0.55rem;
+    text-align: center;
+  }
+}
