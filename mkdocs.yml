@@ -1,6 +1,8 @@
 site_name: JP-Trip
 site_description: Персональный семейный путеводитель по Токио
 site_author: Andre
+site_url: https://nepcuku-shprshty.github.io/JP-Trip/
+use_directory_urls: true
 
 theme:
   name: material
