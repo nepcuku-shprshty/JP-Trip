@@ -14,7 +14,6 @@ premium: true
 
 # 🐟 День 3 — Tsukiji & Ginza
 
-[🗺 Открыть маршрут](ССЫЛКА){ .md-button .md-button--primary }
 
 [🌤 Проверить погоду](https://www.jma.go.jp/bosai/forecast/){ .md-button }
 
