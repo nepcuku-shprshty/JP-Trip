@@ -8,11 +8,7 @@ title: 🌿 Day 4 — Meiji Jingu • Harajuku • Omotesando • Shibuya Sky
 
 | Что открыть | Ссылка |
 |---|---|
-| 🗺 Весь маршрут | [Открыть Google Maps](ССЫЛКА) |
-| ⛩ Meiji Jingu | [Открыть](ССЫЛКА) |
-| 👗 Harajuku | [Открыть](ССЫЛКА) |
-| 🌇 Shibuya Sky | [Открыть](ССЫЛКА) |
-| 🚶 Пеший маршрут | [Построить](ССЫЛКА) |
+| 🗺 Весь маршрут | Открыть Google Maps |
 | 🌤 Погода | [Japan Meteorological Agency](https://www.jma.go.jp/bosai/forecast/) |
 | 🚇 Tokyo Metro | https://www.tokyometro.jp/en/ |
 | 🗣 Полезные фразы | [Японский для туриста](japanese-phrases.md) |
